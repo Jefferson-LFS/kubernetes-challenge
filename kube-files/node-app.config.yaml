@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  name: Jefferson Lucas
+kind: ConfigMap
+metadata:
+  name: node-config
+  namespace: virt-dev
